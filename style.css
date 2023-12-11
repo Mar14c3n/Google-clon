@@ -79,6 +79,12 @@ footer ul li{
     display: flex;
 }
 
+footer a {
+    color: #202124;
+    /* Puedes ajustar otros estilos según tus necesidades, como tamaño de fuente, decoración, etc. */
+    text-decoration: none;
+}
+
 
 #opciones { background-color: #f0f0f0; /* Color de fondo gris claro para el contenedor*/
 color: black; /* color de texto negro dentro del contenedor*/
